@@ -1,5 +1,4 @@
 .ctrq{
-    margin: 0 auto;
     border: solid 1px #ec5d65;
     background-color: #ec5d65;
     border-radius: 10px;
@@ -7,10 +6,35 @@
     height: 300px;
     width: 200px;
     display: flex;
+    margin: 0 auto;
+    font-size: 50px;
+    font-family: sans-serif;
 }
 
-h2 {
+.C {
     align-content: center;
-    
+    margin: 0 auto;
+    font-size: 100px;
 }
 
+p, .C{
+    margin: 15px;
+}
+
+.B {
+    justify-content: flex-end;
+    align-content: flex-end;
+}
+
+a {
+    margin-left: 45%;
+    color: #fff;
+    background: #347cec;
+    padding: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: 0.5s;
+}
+a:hover {
+    background-color: #639bf5;
+}
