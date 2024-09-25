@@ -28,7 +28,7 @@ p, .C{
 }
 
 a {
-    margin-left: 45%;
+    /* margin-left: 45%; */
     color: #fff;
     background: #347cec;
     padding: 20px;
