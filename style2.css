@@ -1,51 +1,6 @@
-* {
-    font-family: Arial, Helvetica, sans-serif;
-}
-.card {
-    margin: 0 auto;
+div{
     display: flex;
     background-color: #347cec;
     color: #fff;
     border-radius: 10px;
-    flex-direction: row;
-    height: 395px;
-    width: 280px;
-}
-
-a {
-    margin-left: 45%;
-    color: #fff;
-    background: #aa2f2f;
-    padding: 20px;
-    border-radius: 5px;
-    text-decoration: none;
-    transition: 0.5s;
-}
-a:hover {
-    background-color: #d33d3d;
-}
-
-
-
-p {
-    margin: 20px;
-    font-size: 48px;
-}
-.a,
-.c {
-    text-decoration: underline;
-    text-decoration-thickness: 3px;
-    text-underline-offset: 5px;
-}
-.b {
-    text-decoration: underline;
-    text-decoration-thickness: 10px;
-    text-underline-offset: 20px;
-    font-size: 160px;
-    align-content: center;
-    margin: 0 auto;
-}
-.c {
-    justify-content: flex-end;
-    align-content: flex-end;
 }
