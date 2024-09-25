@@ -1,0 +1,16 @@
+.ctrq{
+    margin: 0 auto;
+    border: solid 1px #ec5d65;
+    background-color: #ec5d65;
+    border-radius: 10px;
+    color: white;
+    height: 300px;
+    width: 200px;
+    display: flex;
+}
+
+h2 {
+    align-content: center;
+    
+}
+
